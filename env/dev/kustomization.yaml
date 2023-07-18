@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/alexmt/demo-app
-  newTag: af815b798ac01cb0f9401f4ba04bddad8adc4550
+  newTag: 60c7cbea53ca96713a0e32eda9f5c32a78f86bb3
